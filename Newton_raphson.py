@@ -1,12 +1,12 @@
 
 # -*- coding: utf-8 -*-
 
-#---------------------------------------------#
+# --------------------------------------------- #
 # Implementation of Newton-Raphson method 
-#---------------------------------------------#
+# --------------------------------------------- #
 
-#Newton-Raphson for square root
-# Find x such that x**2 -24 is within epsilon of 0
+# Newton-Raphson for square root
+# Find x such that x**2 - 24 is within epsilon of 0
 
 epsilon = 0.01
 k = 24.0
